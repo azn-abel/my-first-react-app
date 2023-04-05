@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/digital-portfolio/static/css/main.5b249b5f.css",
-    "main.js": "/digital-portfolio/static/js/main.916bb5cc.js",
+    "main.css": "/digital-portfolio/static/css/main.03a2f581.css",
+    "main.js": "/digital-portfolio/static/js/main.2e3a1823.js",
     "static/js/787.93c0ff9f.chunk.js": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js",
     "static/media/wallpaper.jpg": "/digital-portfolio/static/media/wallpaper.b1896fda0003188111f1.jpg",
+    "static/media/genshin.png": "/digital-portfolio/static/media/genshin.67db63b08047f11d76ee.png",
+    "static/media/discord.png": "/digital-portfolio/static/media/discord.bb8b8f065d6bd90b4bc2.png",
+    "static/media/osu.png": "/digital-portfolio/static/media/osu.51c535cdd7f4c8978107.png",
     "index.html": "/digital-portfolio/index.html",
-    "main.5b249b5f.css.map": "/digital-portfolio/static/css/main.5b249b5f.css.map",
-    "main.916bb5cc.js.map": "/digital-portfolio/static/js/main.916bb5cc.js.map",
+    "main.03a2f581.css.map": "/digital-portfolio/static/css/main.03a2f581.css.map",
+    "main.2e3a1823.js.map": "/digital-portfolio/static/js/main.2e3a1823.js.map",
     "787.93c0ff9f.chunk.js.map": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b249b5f.css",
-    "static/js/main.916bb5cc.js"
+    "static/css/main.03a2f581.css",
+    "static/js/main.2e3a1823.js"
   ]
 }

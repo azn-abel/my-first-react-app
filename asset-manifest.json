@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/digital-portfolio/static/css/main.fa38d078.css",
-    "main.js": "/digital-portfolio/static/js/main.eed33112.js",
+    "main.js": "/digital-portfolio/static/js/main.cb64d054.js",
     "static/js/787.93c0ff9f.chunk.js": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js",
     "static/media/wallpaper.jpg": "/digital-portfolio/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/genshin.png": "/digital-portfolio/static/media/genshin.67db63b08047f11d76ee.png",
@@ -9,14 +9,15 @@
     "static/media/react.png": "/digital-portfolio/static/media/react.6bcffb56bd0efaa47767.png",
     "static/media/Abel Lu.jpg": "/digital-portfolio/static/media/Abel Lu.05a87c80a2c5ae34b3e4.jpg",
     "static/media/osu.png": "/digital-portfolio/static/media/osu.04c614a02d17d6d10524.png",
+    "static/media/burgercat.png": "/digital-portfolio/static/media/burgercat.f6fadc6e5f6785ca6bb7.png",
     "static/media/pokeball.png": "/digital-portfolio/static/media/pokeball.c85373b997500c76b389.png",
     "index.html": "/digital-portfolio/index.html",
     "main.fa38d078.css.map": "/digital-portfolio/static/css/main.fa38d078.css.map",
-    "main.eed33112.js.map": "/digital-portfolio/static/js/main.eed33112.js.map",
+    "main.cb64d054.js.map": "/digital-portfolio/static/js/main.cb64d054.js.map",
     "787.93c0ff9f.chunk.js.map": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa38d078.css",
-    "static/js/main.eed33112.js"
+    "static/js/main.cb64d054.js"
   ]
 }

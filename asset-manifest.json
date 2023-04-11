@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/digital-portfolio/static/css/main.fa38d078.css",
-    "main.js": "/digital-portfolio/static/js/main.68df46d4.js",
+    "main.css": "/digital-portfolio/static/css/main.9b9eaeb2.css",
+    "main.js": "/digital-portfolio/static/js/main.f3da958b.js",
     "static/js/787.93c0ff9f.chunk.js": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js",
     "static/media/wallpaper.jpg": "/digital-portfolio/static/media/wallpaper.b1896fda0003188111f1.jpg",
+    "static/media/genshin.woff": "/digital-portfolio/static/media/genshin.ce067145eca5bdb6712e.woff",
     "static/media/genshin.png": "/digital-portfolio/static/media/genshin.67db63b08047f11d76ee.png",
     "static/media/r.png": "/digital-portfolio/static/media/r.bab71c53d7df7163f2ed.png",
     "static/media/discord.png": "/digital-portfolio/static/media/discord.bb8b8f065d6bd90b4bc2.png",
@@ -12,13 +13,15 @@
     "static/media/osu.png": "/digital-portfolio/static/media/osu.04c614a02d17d6d10524.png",
     "static/media/burgercat.png": "/digital-portfolio/static/media/burgercat.f6fadc6e5f6785ca6bb7.png",
     "static/media/pokeball.png": "/digital-portfolio/static/media/pokeball.c85373b997500c76b389.png",
+    "static/media/Metropolis-Light.woff": "/digital-portfolio/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
+    "static/media/minecraft.woff": "/digital-portfolio/static/media/minecraft.f2f0bb61977cbd799cc3.woff",
     "index.html": "/digital-portfolio/index.html",
-    "main.fa38d078.css.map": "/digital-portfolio/static/css/main.fa38d078.css.map",
-    "main.68df46d4.js.map": "/digital-portfolio/static/js/main.68df46d4.js.map",
+    "main.9b9eaeb2.css.map": "/digital-portfolio/static/css/main.9b9eaeb2.css.map",
+    "main.f3da958b.js.map": "/digital-portfolio/static/js/main.f3da958b.js.map",
     "787.93c0ff9f.chunk.js.map": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa38d078.css",
-    "static/js/main.68df46d4.js"
+    "static/css/main.9b9eaeb2.css",
+    "static/js/main.f3da958b.js"
   ]
 }

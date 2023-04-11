@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/digital-portfolio/static/css/main.5cd13900.css",
-    "main.js": "/digital-portfolio/static/js/main.ba4aa920.js",
+    "main.css": "/digital-portfolio/static/css/main.d0d2760b.css",
+    "main.js": "/digital-portfolio/static/js/main.5cc9bbcf.js",
     "static/js/787.93c0ff9f.chunk.js": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js",
     "static/media/wallpaper.jpg": "/digital-portfolio/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/genshin.woff": "/digital-portfolio/static/media/genshin.ce067145eca5bdb6712e.woff",
@@ -16,12 +16,12 @@
     "static/media/Metropolis-Light.woff": "/digital-portfolio/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
     "static/media/minecraft.woff": "/digital-portfolio/static/media/minecraft.f2f0bb61977cbd799cc3.woff",
     "index.html": "/digital-portfolio/index.html",
-    "main.5cd13900.css.map": "/digital-portfolio/static/css/main.5cd13900.css.map",
-    "main.ba4aa920.js.map": "/digital-portfolio/static/js/main.ba4aa920.js.map",
+    "main.d0d2760b.css.map": "/digital-portfolio/static/css/main.d0d2760b.css.map",
+    "main.5cc9bbcf.js.map": "/digital-portfolio/static/js/main.5cc9bbcf.js.map",
     "787.93c0ff9f.chunk.js.map": "/digital-portfolio/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cd13900.css",
-    "static/js/main.ba4aa920.js"
+    "static/css/main.d0d2760b.css",
+    "static/js/main.5cc9bbcf.js"
   ]
 }

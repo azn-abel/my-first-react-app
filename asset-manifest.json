@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.f887c0c0.css",
-    "main.js": "/static/js/main.eaf71e6b.js",
+    "main.css": "/static/css/main.d0a2bc2b.css",
+    "main.js": "/static/js/main.954d5bca.js",
     "static/js/787.93c0ff9f.chunk.js": "/static/js/787.93c0ff9f.chunk.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.b1896fda0003188111f1.jpg",
-    "static/media/genshin.woff": "/static/media/genshin.ce067145eca5bdb6712e.woff",
     "static/media/genshin.png": "/static/media/genshin.67db63b08047f11d76ee.png",
     "static/media/r.png": "/static/media/r.bab71c53d7df7163f2ed.png",
     "static/media/discord.png": "/static/media/discord.bb8b8f065d6bd90b4bc2.png",
@@ -14,14 +13,13 @@
     "static/media/burgercat.png": "/static/media/burgercat.f6fadc6e5f6785ca6bb7.png",
     "static/media/pokeball.png": "/static/media/pokeball.c85373b997500c76b389.png",
     "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
-    "static/media/minecraft.woff": "/static/media/minecraft.f2f0bb61977cbd799cc3.woff",
     "index.html": "/index.html",
-    "main.f887c0c0.css.map": "/static/css/main.f887c0c0.css.map",
-    "main.eaf71e6b.js.map": "/static/js/main.eaf71e6b.js.map",
+    "main.d0a2bc2b.css.map": "/static/css/main.d0a2bc2b.css.map",
+    "main.954d5bca.js.map": "/static/js/main.954d5bca.js.map",
     "787.93c0ff9f.chunk.js.map": "/static/js/787.93c0ff9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f887c0c0.css",
-    "static/js/main.eaf71e6b.js"
+    "static/css/main.d0a2bc2b.css",
+    "static/js/main.954d5bca.js"
   ]
 }

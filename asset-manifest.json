@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.53d0b7f4.css",
-    "main.js": "/static/js/main.db6b530c.js",
+    "main.css": "/static/css/main.33700346.css",
+    "main.js": "/static/js/main.65c3b264.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/genshin.png": "/static/media/genshin.67db63b08047f11d76ee.png",
     "static/media/r.png": "/static/media/r.bab71c53d7df7163f2ed.png",
@@ -13,11 +13,11 @@
     "static/media/pokeball.png": "/static/media/pokeball.c85373b997500c76b389.png",
     "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
     "index.html": "/index.html",
-    "main.53d0b7f4.css.map": "/static/css/main.53d0b7f4.css.map",
-    "main.db6b530c.js.map": "/static/js/main.db6b530c.js.map"
+    "main.33700346.css.map": "/static/css/main.33700346.css.map",
+    "main.65c3b264.js.map": "/static/js/main.65c3b264.js.map"
   },
   "entrypoints": [
-    "static/css/main.53d0b7f4.css",
-    "static/js/main.db6b530c.js"
+    "static/css/main.33700346.css",
+    "static/js/main.65c3b264.js"
   ]
 }

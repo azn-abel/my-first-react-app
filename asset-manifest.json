@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a813a058.css",
+    "main.css": "/static/css/main.8b9be03e.css",
     "main.js": "/static/js/main.24180265.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/python.png": "/static/media/python.91072be85b01ef0961a8.png",
@@ -14,11 +14,11 @@
     "static/media/pokeball.png": "/static/media/pokeball.c85373b997500c76b389.png",
     "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
     "index.html": "/index.html",
-    "main.a813a058.css.map": "/static/css/main.a813a058.css.map",
+    "main.8b9be03e.css.map": "/static/css/main.8b9be03e.css.map",
     "main.24180265.js.map": "/static/js/main.24180265.js.map"
   },
   "entrypoints": [
-    "static/css/main.a813a058.css",
+    "static/css/main.8b9be03e.css",
     "static/js/main.24180265.js"
   ]
 }

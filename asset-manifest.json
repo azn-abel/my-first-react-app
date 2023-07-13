@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.09bffd5c.css",
-    "main.js": "/static/js/main.c460f7e1.js",
+    "main.css": "/static/css/main.aa2232b1.css",
+    "main.js": "/static/js/main.fcfba194.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/python.png": "/static/media/python.91072be85b01ef0961a8.png",
     "static/media/genshin.png": "/static/media/genshin.67db63b08047f11d76ee.png",
@@ -15,11 +15,11 @@
     "static/media/spring.png": "/static/media/spring.413cc5439136cfbed76b.png",
     "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
     "index.html": "/index.html",
-    "main.09bffd5c.css.map": "/static/css/main.09bffd5c.css.map",
-    "main.c460f7e1.js.map": "/static/js/main.c460f7e1.js.map"
+    "main.aa2232b1.css.map": "/static/css/main.aa2232b1.css.map",
+    "main.fcfba194.js.map": "/static/js/main.fcfba194.js.map"
   },
   "entrypoints": [
-    "static/css/main.09bffd5c.css",
-    "static/js/main.c460f7e1.js"
+    "static/css/main.aa2232b1.css",
+    "static/js/main.fcfba194.js"
   ]
 }

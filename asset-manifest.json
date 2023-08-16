@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b7960c0.css",
-    "main.js": "/static/js/main.8546b6e7.js",
+    "main.css": "/static/css/main.cc445277.css",
+    "main.js": "/static/js/main.57f03cda.js",
     "static/media/wallpaper.jpg": "/static/media/wallpaper.b1896fda0003188111f1.jpg",
     "static/media/python.png": "/static/media/python.91072be85b01ef0961a8.png",
     "static/media/genshin.png": "/static/media/genshin.67db63b08047f11d76ee.png",
     "static/media/r.png": "/static/media/r.bab71c53d7df7163f2ed.png",
     "static/media/discord.png": "/static/media/discord.bb8b8f065d6bd90b4bc2.png",
+    "static/media/miku.png": "/static/media/miku.c9a941c2a47c92947bfd.png",
     "static/media/react.png": "/static/media/react.6bcffb56bd0efaa47767.png",
     "static/media/Abel Lu.jpg": "/static/media/Abel Lu.05a87c80a2c5ae34b3e4.jpg",
     "static/media/osu.png": "/static/media/osu.04c614a02d17d6d10524.png",
@@ -16,11 +17,11 @@
     "static/media/spring.png": "/static/media/spring.413cc5439136cfbed76b.png",
     "static/media/Metropolis-Light.woff": "/static/media/Metropolis-Light.fe9aaaf89f0f5af7af1f.woff",
     "index.html": "/index.html",
-    "main.6b7960c0.css.map": "/static/css/main.6b7960c0.css.map",
-    "main.8546b6e7.js.map": "/static/js/main.8546b6e7.js.map"
+    "main.cc445277.css.map": "/static/css/main.cc445277.css.map",
+    "main.57f03cda.js.map": "/static/js/main.57f03cda.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b7960c0.css",
-    "static/js/main.8546b6e7.js"
+    "static/css/main.cc445277.css",
+    "static/js/main.57f03cda.js"
   ]
 }

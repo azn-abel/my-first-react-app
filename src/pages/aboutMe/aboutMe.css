@@ -1,0 +1,19 @@
+.bullet ul {
+    padding-left: 30px;
+    width: 100%;
+}
+li {
+    text-align: left;
+}
+
+.bullets-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.bullet {
+    width: 350px;
+}

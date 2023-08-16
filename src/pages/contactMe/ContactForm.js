@@ -18,10 +18,10 @@ function ContactForm() {
   
       emailjs.sendForm('service_l49rbwz', 'template_oklhrkg', form.current, 'TalPMRUnzL8eHLRR5')
         .then((result) => {
-            console.log(result.text);
+            console.info(result.text);
             setStatus('Message sent successfully!');
         }, (error) => {
-            console.log(error.text);
+            console.error(error.text);
             setStatus('Message failed to send. Please refresh and try again.');
         });
         setName('');

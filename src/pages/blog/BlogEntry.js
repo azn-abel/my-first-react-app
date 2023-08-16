@@ -12,7 +12,6 @@ const BlogEntry = (props) => {
                 <b style={{textDecoration: "none", color: "#303339"}}>{entry.title}</b>
                 <p style={{textDecoration: "none", color: "#303339", textAlign: "center"}}>{entry.date}</p>
             </Link>
-
         </div>
     )
 }

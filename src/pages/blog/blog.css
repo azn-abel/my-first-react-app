@@ -19,6 +19,12 @@
     padding: 20px;
     border-radius: 10px;
     margin: 15px;
+    position: relative;
+    top: 0;
+    transition: top 0.2s ease-in-out;
+}
+.blog-entry:hover {
+    top: -8px
 }
 .blog-entry img {
     height: 200px;

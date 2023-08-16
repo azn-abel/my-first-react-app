@@ -1,4 +1,5 @@
 import "../../styles/index.css";
+import "./aboutMe.css"
 import AbelPic from "../../images/Abel Lu.jpg";
 
 const AboutMe = () => {
@@ -8,12 +9,12 @@ const AboutMe = () => {
             <br />
             <h2>About Me</h2>
             <div className="about-me-container">
-            <div className="about-me-box">
-                <br />
-                <img src={AbelPic} height="450px" width="300px" alt="Abel Lu" />
-            </div>
+                <div className="about-me-box">
+                    <br />
+                    <img src={AbelPic} height="450px" width="300px" alt="Abel Lu" />
+                </div>
 
-            <div className="about-me-box">
+                <div className="about-me-box">
                 <h3 className="Hello">Hi, I'm Abel Lu 👋</h3>
                 <br/>
                 <p> My name is Abel Lu, and I'm a second-year Computer Science student at North Carolina State University.
@@ -29,19 +30,27 @@ const AboutMe = () => {
                     built to practice React. If you'd like to get in touch with me, feel free to contact me through
                     LinkedIn or through my contact page. I'm happy to connect!</p>
                     <br></br>
-                {/*<p> <b>Experience: </b> Software Engineer Intern @ Lowe's, Engineering Extern @ Cisco</p>*/}
-                {/*<p> <b>Skills: </b>Java, Python, React, Redux</p>*/}
-                {/* <br></br>
-                <p> Aside from being a Computer Science major, I'm also an avid music student! Here at NC State, I'm a member
-                    of the Marching Band, where I play the snare drum, the Wind Ensemble, where I play percussion, and the
-                    Beginning Band, where I'm learning how to play the flute. I'm also a big fan of college and professional
-                    basketball. My favorite college team is the NC State Wolfpack, and my favorite NBA team is the Los Angeles
-                    Lakers. In addition to just watching basketball, I also like to play! As a member of NC State's intramural
-                    basketball league, I get the privilege of playing in recreational matches with some of the best teammates in the world.</p> */}
-                {/*    <br></br>*/}
-                {/*<p> If you'd like to get in touch with me, feel free to connect with me on LinkedIn or contact me through my*/}
-                {/*    contact page.</p>*/}
-            </div>
+                    {/*<div className="bullets-container">*/}
+                    {/*    <div className="bullet">*/}
+                    {/*        <b style={{display: "block", width: "100%", textAlign: "left"}}>Experience: </b>*/}
+                    {/*        <ul>*/}
+                    {/*            <li>RENCI: Platform Engineer Intern</li>*/}
+                    {/*            <li>Lowe's: Software Engineer Intern</li>*/}
+                    {/*            <li>Cisco: Engineering Extern</li>*/}
+                    {/*        </ul>*/}
+                    {/*        <br/>*/}
+                    {/*    </div>*/}
+                    {/*    <div className="bullet">*/}
+                    {/*        <b style={{display: "block", width: "100%", textAlign: "left"}}>Skills: </b>*/}
+                    {/*        <ul>*/}
+                    {/*            <li>Java, Python, SQL, HTML/CSS, JavaScript</li>*/}
+                    {/*            <li>React, Redux, Spring Boot</li>*/}
+                    {/*            <li>Docker, Git, Prometheus, Grafana</li>*/}
+                    {/*        </ul>*/}
+                    {/*        <br/>*/}
+                    {/*    </div>*/}
+                    {/*</div>*/}
+                </div>
             </div>
         </div>
      );

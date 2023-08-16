@@ -27,7 +27,6 @@ const AnimatedRoutes = () => {
 
     const handleResize = () => {
       try {
-        console.log(item);
 
         const footerHeight = document.getElementById('footer').offsetHeight;
         const navbarHeight = document.getElementById('navbar').offsetHeight;
@@ -38,11 +37,10 @@ const AnimatedRoutes = () => {
           document.getElementById('content').style.height = newHeight + footerHeight + "px";
         } else {
           document.getElementById('content').style.height = fitHeight + footerHeight + "px";
-          console.log("fit is more")
         }
         
       } catch (e) {
-        console.log("Failed to properly resize components.")
+        console.error("Failed to properly resize components.")
         console.log(e);
       }
     }
@@ -52,9 +50,10 @@ const AnimatedRoutes = () => {
         if (location.pathname === "" || location.pathname === "/") {
           item = document.getElementById("home");
         } else {
-          console.log(location.pathname)
-          console.log(location.pathname.slice(1));
           item = document.getElementById(location.pathname.slice(1));
+        }
+        if (item == null) {
+          item = document.getElementById("404");
         }
         handleResize();
       } catch {

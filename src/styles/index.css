@@ -69,7 +69,7 @@ h1 p {
 
 .Home {
   height: calc(100vh - 53px - 225px);
-  min-height: calc(100vh - 53px);
+  min-height: 600px;
   width: 100%;
 }
 
@@ -201,14 +201,13 @@ hr {
 
 @media all and (900px <= width){
   .about-me-container {
-    display: inline-flex;
+    display: flex;
     justify-content: flex-start;
     width: 100%;
   }
   
   .about-me-box {
-    display: inline-flex;
-    vertical-align: left;
+    display: flex;
     flex-direction: column;
   }
 
@@ -236,15 +235,14 @@ hr {
   display: inline-flex;
   vertical-align: middle;
   flex-direction: column;
-  /*background-color: #afeeee;*/
   background-color: #dddddd;
   border-radius: 10px;
   padding: 10px;
   margin: 10px;
-  height: 380px;
-  /* justify-content: center;
-  align-items: center;
-  flex-direction: column; */
+  height: 370px;
+  position: relative;
+  top: 0;
+  transition: top 0.2s ease-in-out;
 }
 
 .project b, .project p {
@@ -255,20 +253,17 @@ hr {
 }
 
 .project img {
-  position: relative;
-  top: 0;
-  transition: top 0.2s ease-in-out;
   width: 200px;
   height: 200px;
   z-index: 2;
   padding: 20px
 }
 
-.project img:hover {
-  top: -5px
+.project:hover {
+  top: -8px
 }
 
-.project img:active {
+.project:active {
   top: 0
 }
 
